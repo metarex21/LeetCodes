@@ -1,7 +1,7 @@
 # LeetCodes
 A leetcode question a day keeps unemployment away<br>
 [**LeetCode Profile**](https://leetcode.com/metarex21/)
-- [Q1. GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) : [click here](./q1.ipynb)
+- [Q1. GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) : [click here](./q1.ipynb)
 - [Q2. TwoSum](https://leetcode.com/problems/two-sum/) : [click here](./q2.ipynb)
 - [Q3. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) : [click here](./q3.ipynb)
 - [Q4. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) : [click here](./q4.ipynb)
@@ -11,3 +11,4 @@ A leetcode question a day keeps unemployment away<br>
 - [Q8. Sqrt(x)](https://leetcode.com/problems/sqrtx/) : [click here](./q8.ipynb)
 - [Q9. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) : [click here](./q9.ipynb)
 - [Q10. Palindrome Number](https://leetcode.com/problems/palindrome-number/) : [click here](./q10.ipynb)
+- [Q11. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) : [click here](./q11.ipynb)
