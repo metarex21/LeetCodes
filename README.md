@@ -13,3 +13,4 @@ A leetcode question a day keeps unemployment away<br>
 - [Q10. Palindrome Number](https://leetcode.com/problems/palindrome-number/) : [click here](./q10.ipynb)
 - [Q11. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) : [click here](./q11.ipynb)
 - [Q12. Remove Element](https://leetcode.com/problems/remove-element/) : [click here](./q12.ipynb)
+- [Q13. Reverse Integer](https://leetcode.com/problems/reverse-integer/) : [click here](./q13.ipynb)
